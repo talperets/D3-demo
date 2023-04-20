@@ -55,7 +55,6 @@ const generateDummyData = () => {
     "Category D",
     "Category E",
     "Category A",
-    "Category Z",
     "Category C",
     "Category D",
     "Category E"
